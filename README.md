@@ -129,7 +129,14 @@ To run this project, follow these steps:
 
 ## Usage
 
-<Provide detailed instructions on how to use your project. Include example commands, configurations, and any other relevant information.>
+paste the given code on google colab paste all the given code snipits make sure ur machine has a gpu then run all the snippets in given order
+
+-Check the GPU
+-Install dependencies
+-Download the diffusion model
+-Imports
+-Load the models
+-
 
 ## Results
 
